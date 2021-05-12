@@ -3,6 +3,7 @@ public class Bar implements Comparable<Bar> {
     private String name,category;
     private int value;
     // Creates a new bar.
+    
     public Bar(String name, String category, int value){
         this.name = name;
         this.category = category;

@@ -20,8 +20,9 @@ public class Line{
     }
     
     //Returns the next value of this line.
-    public int nexValue(){
+    public int nextValue(){
         // next line
+        return;
     }
     
     //Feel free to add other necessary method
