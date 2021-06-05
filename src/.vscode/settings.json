@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/blgc/Belgeler/javafx-sdk-11.0.2/lib/javafx.base.jar",
+        "/home/blgc/Belgeler/javafx-sdk-11.0.2/lib/javafx.controls.jar",
+        "/home/blgc/Belgeler/javafx-sdk-11.0.2/lib/javafx.fxml.jar",
+        "/home/blgc/Belgeler/javafx-sdk-11.0.2/lib/javafx.graphics.jar",
+        "/home/blgc/Belgeler/javafx-sdk-11.0.2/lib/javafx.media.jar",
+        "/home/blgc/Belgeler/javafx-sdk-11.0.2/lib/javafx.swing.jar",
+        "/home/blgc/Belgeler/javafx-sdk-11.0.2/lib/javafx.web.jar",
+        "/home/blgc/Belgeler/javafx-sdk-11.0.2/lib/javafx-swt.jar"
+    ]
+}
